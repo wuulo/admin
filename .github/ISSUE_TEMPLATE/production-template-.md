@@ -29,6 +29,6 @@ finishing / packing
 - [ ] putting in boxes
 - [ ] inserting in [stock list](https://docs.google.com/spreadsheets/d/1brZ0Db65Y-aHFGSaVo6yraNM2z41lPtoBl4-MgjRhTQ?usp=drive_fs), receives name and QR
 - [ ] filling passport
-- [ ] apply stickers on passport and box
+- [ ] apply QR stickers on passport and box
 - [ ] close box
 - [ ] put in shelve
