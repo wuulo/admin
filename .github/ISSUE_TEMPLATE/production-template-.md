@@ -23,6 +23,7 @@ production
 - [ ] cutting yarn ends
 
 finishing / packing
+- [ ] attach leather labels
 - [ ] washing / drying
 - [ ] ironing / steaming
 - [ ] putting in boxes
