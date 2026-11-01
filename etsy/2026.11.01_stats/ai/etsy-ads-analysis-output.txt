@@ -1,0 +1,52 @@
+Source: etsy_ads_stats_2024-10-31_2026-10-31.csv  (2024-10-31 .. 2026-10-31)
+
+=== ALL TIME ===
+all time                     days_active=304  views=143425  clicks=2449  CTR=1.71%  spend=$ 794.11  CPC=$0.32  orders=8  conv=0.33%  revenue=$878.95  ROAS=1.11  cost/order=$99.26
+
+=== CAMPAIGN PERIODS (gaps of >5 zero-spend days split periods) ===
+2024-11-17..2024-12-18       days_active= 22  views=  7613  clicks= 112  CTR=1.47%  spend=$  32.13  CPC=$0.29  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+                             daily budgets seen: [1.0, 2.0, 5.0]
+2024-12-27..2025-01-17       days_active= 22  views=  7448  clicks= 135  CTR=1.81%  spend=$  23.14  CPC=$0.17  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+                             daily budgets seen: [2.0]
+2025-01-25..2025-02-22       days_active= 17  views=  2118  clicks=  30  CTR=1.42%  spend=$   6.24  CPC=$0.21  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+                             daily budgets seen: [1.0]
+2025-10-27..2026-01-14       days_active= 74  views= 33067  clicks= 557  CTR=1.68%  spend=$ 203.71  CPC=$0.37  orders=4  conv=0.72%  revenue=$491.82  ROAS=2.41  cost/order=$50.93
+                             daily budgets seen: [1.0, 4.0, 5.0]
+2026-02-22..2026-04-28       days_active= 54  views= 18675  clicks= 285  CTR=1.53%  spend=$  96.19  CPC=$0.34  orders=1  conv=0.35%  revenue=$113.66  ROAS=1.18  cost/order=$96.19
+                             daily budgets seen: [6.0, 25.0]
+2026-06-22..2026-10-31       days_active=115  views= 74504  clicks=1330  CTR=1.79%  spend=$ 432.70  CPC=$0.33  orders=3  conv=0.23%  revenue=$273.47  ROAS=0.63  cost/order=$144.23
+                             daily budgets seen: [1.0, 5.0, 6.5, 7.0, 8.5]
+
+=== BY MONTH (months with spend) ===
+2024-11                      days_active= 14  views=  3104  clicks=  44  CTR=1.42%  spend=$  13.44  CPC=$0.31  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2024-12                      days_active= 13  views=  5956  clicks=  98  CTR=1.65%  spend=$  25.22  CPC=$0.26  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2025-01                      days_active= 23  views=  6625  clicks= 117  CTR=1.77%  spend=$  18.81  CPC=$0.16  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2025-02                      days_active= 11  views=  1494  clicks=  18  CTR=1.20%  spend=$   4.04  CPC=$0.22  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2025-10                      days_active=  1  views=    21  clicks=   1  CTR=4.76%  spend=$   0.08  CPC=$0.08  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2025-11                      days_active= 28  views= 17321  clicks= 258  CTR=1.49%  spend=$ 102.84  CPC=$0.40  orders=3  conv=1.16%  revenue=$366.84  ROAS=3.57  cost/order=$34.28
+2025-12                      days_active= 31  views= 12891  clicks= 241  CTR=1.87%  spend=$  83.23  CPC=$0.35  orders=1  conv=0.41%  revenue=$124.98  ROAS=1.50  cost/order=$83.23
+2026-01                      days_active= 14  views=  2834  clicks=  57  CTR=2.01%  spend=$  17.56  CPC=$0.31  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2026-02                      days_active=  6  views=  1829  clicks=  28  CTR=1.53%  spend=$   9.59  CPC=$0.34  orders=1  conv=3.57%  revenue=$113.66  ROAS=11.85  cost/order=$9.59
+2026-03                      days_active= 29  views= 11601  clicks= 192  CTR=1.66%  spend=$  68.44  CPC=$0.36  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2026-04                      days_active= 19  views=  5245  clicks=  65  CTR=1.24%  spend=$  18.16  CPC=$0.28  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2026-06                      days_active=  2  views=   115  clicks=   2  CTR=1.74%  spend=$   0.52  CPC=$0.26  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2026-07                      days_active= 21  views=  4234  clicks=  70  CTR=1.65%  spend=$  16.56  CPC=$0.24  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2026-08                      days_active= 31  views= 12382  clicks= 170  CTR=1.37%  spend=$  56.77  CPC=$0.33  orders=0  conv=0.00%  revenue=$0.00  ROAS=0.00  cost/order=n/a
+2026-09                      days_active= 30  views= 34442  clicks= 606  CTR=1.76%  spend=$ 209.56  CPC=$0.35  orders=1  conv=0.17%  revenue=$100.30  ROAS=0.48  cost/order=$209.56
+2026-10                      days_active= 31  views= 23331  clicks= 482  CTR=2.07%  spend=$ 149.29  CPC=$0.31  orders=2  conv=0.41%  revenue=$173.17  ROAS=1.16  cost/order=$74.64
+
+=== ORDER DAYS ===
+2025-11-06: orders=1 revenue=$117.93 spend that day=$2.70 clicks=7
+2025-11-13: orders=1 revenue=$118.40 spend that day=$4.65 clicks=12
+2025-11-27: orders=1 revenue=$130.51 spend that day=$3.03 clicks=10
+2025-12-11: orders=1 revenue=$124.98 spend that day=$4.96 clicks=14
+2026-02-28: orders=1 revenue=$113.66 spend that day=$0.97 clicks=4
+2026-09-04: orders=1 revenue=$100.30 spend that day=$7.82 clicks=16
+2026-10-02: orders=2 revenue=$173.17 spend that day=$6.81 clicks=15
+
+=== RECENT WINDOWS ===
+last 30 days                 days_active= 30  views= 22304  clicks= 465  CTR=2.08%  spend=$ 142.90  CPC=$0.31  orders=2  conv=0.43%  revenue=$173.17  ROAS=1.21  cost/order=$71.45
+last 60 days                 days_active= 60  views= 56880  clicks=1074  CTR=1.89%  spend=$ 353.94  CPC=$0.33  orders=3  conv=0.28%  revenue=$273.47  ROAS=0.77  cost/order=$117.98
+
+=== AVG ORDER VALUE (ads) ===
+orders=8 revenue=$878.95 AOV=$109.87
