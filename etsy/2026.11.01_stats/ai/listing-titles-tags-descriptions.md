@@ -1,6 +1,6 @@
 # wuulo – listing titles, tags & descriptions
 
-*Export of the Claude doc https://claude.ai/artifact/XMsz71NgcEXFQ5N3pKFTU8 (rev 7, 1 Nov 2026). The doc is the editable original; this file is the repo copy. Drafted 31 Oct 2026 for Flavia Goga.*
+*Export of the Claude doc https://claude.ai/artifact/XMsz71NgcEXFQ5N3pKFTU8 (rev 7, 1 Nov 2026). The doc is the editable original; this file is the repo copy. Drafted 31 Oct 2026 for Flavia Goga. Corrected in the repo copy on 1 Nov 2026: titles 7, 9, 12 and 15 trimmed to under 15 words and one tag on listing 9 shortened to 20 characters (see CHECKLIST.md); the Claude doc does not yet carry these five changes.*
 
 ## How these are built
 
@@ -15,7 +15,7 @@ Every title below follows Etsy's own guidance from April 2026: under 15 words, t
 
 ## Shared blocks for every listing
 
-Paste these four blocks at the end of every description, in this order, after the listing's own text. They replace the shipping, care and packaging paragraphs already in your listings and add the two things buyers currently can't find: a lead time and the 30-day return window. The one fact in square brackets is missing from every listing — fill it once.
+Paste these four blocks at the end of every description, in this order, after the listing's own text. They replace the shipping, care and packaging paragraphs already in your listings and add the two things buyers currently can't find: a lead time and the 30-day return window. The lead times match the shipping profiles already set in Shop Manager (1–3 working days ready-to-ship, 3–5 working days made to order; confirmed by Flavia, 1 Nov 2026).
 
 **Sizing & fit** *(sweaters, vests and tops only)*
 
@@ -23,7 +23,7 @@ Measurements are taken with the piece laid flat: width across the sleeves and he
 
 **Shipping & returns**
 
-Made in our Kyiv workshop and shipped worldwide with Ukrposhta, fully tracked — you get the tracking number by email the day it ships. Delivery is included in the price. US buyers: we prepay import duties, so there is nothing to pay on delivery. UK and EU buyers: VAT is collected by Etsy at checkout. [Ready-to-ship pieces leave within X working days; made-to-order pieces within X days.] Returns and exchanges accepted within 30 days; the buyer covers return postage.
+Made in our Kyiv workshop and shipped worldwide with Ukrposhta, fully tracked — you get the tracking number by email the day it ships. Delivery is included in the price. US buyers: we prepay import duties, so there is nothing to pay on delivery. UK and EU buyers: VAT is collected by Etsy at checkout. Ready-to-ship pieces leave within 1–3 working days; made-to-order pieces within 3–5 working days. Returns and exchanges accepted within 30 days; the buyer covers return postage.
 
 **Care**
 
@@ -136,7 +136,7 @@ A loose, poncho-style batwing sweater with a cowl neck, knitted from baby alpaca
 
 **Current:** Loose fit batwing sweater with mock neck in merino and baby alpaca, fair isle herringbone pattern
 
-**New (14 words):** Batwing sweater in merino and baby alpaca, mock neck, herringbone knit, loose fit, for women
+**New (14 words):** Batwing sweater, merino and baby alpaca, mock neck, herringbone knit, loose fit, for women
 
 **Tags:** batwing sweater, poncho sweater, herringbone sweater, mock neck sweater, alpaca merino knit, loose fit sweater, oversized knit top, green wool sweater, brown wool sweater, alpaca sweater women, fair isle sweater, wool poncho sweater, handmade knitwear
 
@@ -172,9 +172,9 @@ A loose, fine-knit top with a boat neck and short sleeves in baby alpaca — the
 
 **Current:** Lace knitted top in royal alpaca, reversible design, lace flower motif texture
 
-**New (14 words):** Alpaca lace top, reversible short sleeve knit with white flower lace motif, red or green
+**New (13 words):** Alpaca lace top, reversible short sleeve knit, white flower motif, red or green
 
-**Tags:** lace knit top, alpaca top, reversible top, short sleeve knit top, crochet look top, floral knit top, red knit top, green knit top, womens alpaca top, lightweight knit top, punch lace knit, handmade knit top, boho knit top
+**Tags:** lace knit top, alpaca top, reversible top, short sleeve top, crochet look top, floral knit top, red knit top, green knit top, womens alpaca top, lightweight knit top, punch lace knit, handmade knit top, boho knit top
 
 **Description:**
 
@@ -234,7 +234,7 @@ Has a 5★ review (Dec 2025).
 
 **Current:** Fluffy light warm royal alpaca throw scarf, handmade luxury winter gift
 
-**New (14 words):** Alpaca scarf, houndstooth two-tone knit wrap in royal alpaca, sand, latte or light brown, unisex
+**New (13 words):** Royal alpaca scarf, houndstooth two-tone knit wrap, sand, latte or light brown, unisex
 
 **Tags:** alpaca scarf, royal alpaca scarf, houndstooth scarf, beige knit scarf, wide wool scarf, wool wrap scarf, light alpaca scarf, soft winter scarf, mens alpaca scarf, womens alpaca scarf, two tone scarf, brown knit scarf, handmade wool scarf
 
@@ -289,7 +289,7 @@ An oversized scarf in 77% brushed alpaca and 23% silk — the alpaca gives a flu
 
 **Current:** Luxury warm scarf in kid silk mohair and alpaca & merino, silky soft flowing wrap
 
-**New (14 words):** Mohair scarf, kid silk mohair with alpaca and merino, fluffy knit wrap, sand, beige or ash
+**New (14 words):** Mohair scarf, kid silk mohair with alpaca and merino, fluffy wrap, sand, beige, ash
 
 **Tags:** mohair scarf, kid mohair scarf, silk mohair scarf, alpaca mohair scarf, fluffy scarf, soft fuzzy scarf, pink knit scarf, beige mohair scarf, grey mohair scarf, womens wool scarf, lightweight scarf, winter wrap scarf, handmade mohair wrap
 
@@ -370,7 +370,7 @@ Do these in the same sitting as the titles — several of them undo the benefit 
 - [ ] **Materials field:** 12 says *alpaca, wool* against a 100% royal alpaca text; 15 has no percentages at all. Only listing 14 states fibre percentages — add them everywhere you know them.
 - [ ] **Missing colour options:** listing 3 (tan, brown, mustard in photos) and 16 (two colourways in photos) have no colour variation, so buyers can't choose.
 - [ ] **Sold-out variants:** across the nine garments most S and L sizes are greyed out, and several scarves show every colour as sold out next to a "3 left" notice. Since you make to order anyway, set quantity on every size and colour and state the lead time in the shipping block.
-- [ ] **Processing time:** it's missing from every listing, and it's what Etsy builds the delivery estimate from. Set it in the shipping profiles and fill the bracket in the shared block.
+- [x] **Processing time:** verified 2 Nov 2026 — the public page shows "Order today to get by Nov 4–13". Profiles carry 1–3 working days (ready-to-ship) and 3–5 working days (made to order). Only check that mostly made-to-order listings sit on the 3–5 day profile.
 - [ ] **Attributes on every listing:** primary and secondary colour, material, recipient (women / men / unisex), occasion, style, and neckline for the garments. These count as search terms, so the tags above don't repeat them.
 - [ ] **Categories:** scarves under *Accessories › Scarves & Wraps › Scarves*; sweaters and vests under *Clothing › Gender-Neutral Adult Clothing › Sweaters* unless you decide a piece is women's only.
 - [ ] **Back up first, then wait:** download the listings CSV before editing (Etsy's own advice), make the changes in one sitting, and give search a few weeks before judging — Etsy says title changes take time to take effect.

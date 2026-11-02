@@ -96,3 +96,7 @@ The only month ads clearly paid was **Nov 2025** ($103 → $367, 1.16% conversio
 - Etsy's stats are in EUR and the ads export is in USD; the two don't reconcile exactly.
 - Photo comments are based on the shop page thumbnails and listing-page alt text, not on viewing every image.
 - Shop page, stats and ads data as of 31 Oct 2026.
+
+## Corrections after publication
+
+- **2 Nov 2026** (Flavia, a listing opened in a private browser window): the page shows "Order today to get by Nov 4–13", "Returns & exchanges accepted within 30 days", "Free shipping" and "Ships from: Ukraine". So processing time is set on the shipping profiles (1–3 working days ready-made, 3–5 made to order) and a 30-day return policy is in place. Section 1's point about vague shipping and returns applies to the description text only, not to the structured settings, and step 3 of the 30-day plan ("update the structured policies") is not needed. Whether the six scarves under $100 carry the free-shipping badge is still to be checked listing by listing.
