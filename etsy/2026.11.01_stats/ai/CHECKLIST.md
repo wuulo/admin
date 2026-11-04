@@ -2,7 +2,7 @@
 
 *For Flavia. Written 1 Nov 2026 from `INTENT.md`, `shop-review-2026-10-31.md` and `listing-titles-tags-descriptions.md`. Goal: 15–20 orders by 31 Jan 2027 at over 1% conversion. Order of work: what stops a buyer at the last step first, then titles and tags, then a small ads top-up.*
 
-**How to use this file.** Tick the boxes as you go and write the date next to each phase when it is done, so the stats can be matched to the changes later. Every listing has a file in `paste/` with the title, the 13 tags and the whole description ready to paste. Phases 0 and 1 take one sitting of about an hour. Phase 2 is 17 listing edits of 10–15 minutes each; do them in the order given, a few per sitting. Nothing here needs new photos.
+**How to use this file.** Tick the boxes as you go and write the date next to each phase when it is done, so the stats can be matched to the changes later. Every listing has a file in `paste/` with the title, the 13 tags and the whole description ready to paste. Phases 0 and 1 take one sitting of about an hour. Phase 2 is 18 listing edits of 10–15 minutes each; do them in the order given, a few per sitting. Phase 2b is one brand-new listing. Nothing here needs new photos.
 
 ## Phase 0 — before touching anything (15 min) · done on: ______
 
@@ -36,7 +36,9 @@ These undo the benefit of a good title if left as they are, and most of them are
 - [ ] **Thank-you offer** (Marketing › Sales and discounts › Set up offers › Thank you): switch it on. There is exactly one repeat buyer.
 - [ ] **About video:** open the About section on the shop page and check the video plays; it showed "trouble loading" on 31 Oct.
 
-## Phase 2 — the 18 listings, in this order · started: ______ · finished: ______
+## Phase 2 — the 18 live listings, in this order · started: ______ · finished: ______
+
+Listing 4474092803 (row 2) was found live on 4 Nov 2026, after the 31 Oct review; it is the reviewed merino top that §7 of `HANDOVER.md` had marked as gone. Check its tags for underscores along with listing 4473310667 in Phase 0, since it was not in that original CSV.
 
 **The routine for every listing** (10–15 min). Open `paste/<file>.md` next to the listing editor.
 
@@ -51,24 +53,30 @@ These undo the benefit of a good title if left as they are, and most of them are
 | Order | Listing | Paste file | Why this position | First photo (existing images only) | Needs |
 |---|---|---|---|---|---|
 | 1 | Merino tweed sweater 4473310667 | `paste/01-4473310667.md` | Bestseller: 914 views, 49 favourites, 6 people have it in the cart right now. Five of nine size/colour options show sold out. | No worn shot among the 18. Put the clearest whole-sweater hanger shot first; say in the description which colours are mock neck and which crew neck. | — |
-| 2 | Baby alpaca fair isle scarf 4561814952 | `paste/10-4561814952.md` | Best scarf: 600 views, 2 orders. Photo 1 is a stack of four folded scarves. No free-shipping badge. | Move photo 2, 3, 9, 13 or 16 (worn) to first. | D4 |
-| 3 | Brushed alpaca and mohair scarf 4405823463 | `paste/18-4405823463.md` | 398 views, 1 order; plum and mandarin sold out; thumbnail reads as sweaters. | None worn. Pick the image where the whole scarf is visible, not the stack of three. | D6 |
-| 4 | Lambswool sweater vest 4473219712 | `paste/04-4473219712.md` | 326 views, the one in stock is in someone's cart; S and L sold out. | Move photo 5 or 9 (worn) to first. | — |
-| 5 | Royal alpaca houndstooth scarf 4405853758 | `paste/12-4405853758.md` | Has a 5★ review; all three colours show sold out next to "2 left". Materials field says *alpaca, wool* against a 100% royal alpaca text. | None worn among 20. Whole scarf visible. | D6 |
-| 6 | Baby alpaca herringbone scarf, extra long 4397950200 | `paste/13-4397950200.md` | Has a 5★ review; all colours show sold out. | Move photo 2, 3, 5 or 9 (worn) to first. | — |
-| 7 | Baby alpaca batwing sweater 4485196479 (+ 4558302209) | `paste/05-06-4485196479.md` | Two listings with the same title compete with each other. Merge first, then edit one listing instead of two. | None worn across 32 photos. Whole garment visible. | D2, D3 |
-| 8 | Lambswool turtleneck 4473212449 | `paste/03-4473212449.md` | Winter piece. Photos show three colours but there is no colour option, so nobody can choose one. | None worn among 10. Whole sweater, collar visible. | — |
-| 9 | Merino tuck-stitch sweater 4473253283 | `paste/02-4473253283.md` | Winter piece. Only M is buyable; no colour named anywhere. | Whole sweater visible. | D5 |
-| 10 | Batwing sweater, herringbone 4394626100 | `paste/07-4394626100.md` | Winter piece; three of four colours have no L. Add the sizes you can knit. | Photo 8 looks worn; move it to first. | D2 |
-| 11 | Royal alpaca herringbone scarf 4597967569 | `paste/11-4597967569.md` | No free-shipping badge; 19 photos none worn. | Whole scarf visible. | — |
-| 12 | Brushed alpaca and silk scarf 1844108063 | `paste/14-1844108063.md` | Only 1 left and no variation; 200 vs 210 cm conflict. | Only 7 photos, none worn. Whole scarf visible. | D6 |
-| 13 | Kid silk mohair scarf 4598227511 | `paste/15-4598227511.md` | No fibre percentages anywhere; if desert sand is the dusty pink, set pink as the primary colour attribute. | None worn among 20. Whole scarf visible. | — |
-| 14 | Striped merino and alpaca scarf 4394681620 | `paste/16-4394681620.md` | Photos show two colourways but there is no colour option. | Photo 1 is already worn; leave it. | — |
-| 15 | Baby alpaca fair isle scarf, honey / brown 4484532519 | `paste/17-4484532519.md` | Same product as listing 2 at a higher price; merge or differentiate per D4. | Photo 1 is already worn and is the best first photo of all nine scarves; leave it. | D4 |
-| 16 | Baby alpaca boat-neck top 4484751977 | `paste/08-4484751977.md` | Spring piece; expect it to sit through winter. Only S buyable. | Move photo 9 (worn) to first. | — |
-| 17 | Alpaca lace top 4410829398 | `paste/09-4410829398.md` | Spring piece. M and L sold out in both colours. | Move one of photos 2, 6, 9, 12–14 (worn) to first. | — |
+| 2 | Merino classic top, light brown 4474092803 | `paste/20-4474092803.md` | Found 4 Nov 2026, missing from the 31 Oct export and review because it was inactive that day — a 5★-reviewed listing the shop nearly lost twice. Only 1 piece in stock. | Confirm photo 1 is worn; the listing text already describes the model, unlike most of the other 17. | — |
+| 3 | Baby alpaca fair isle scarf 4561814952 | `paste/10-4561814952.md` | Best scarf: 600 views, 2 orders. Photo 1 is a stack of four folded scarves. No free-shipping badge. | Move photo 2, 3, 9, 13 or 16 (worn) to first. | D4 |
+| 4 | Brushed alpaca and mohair scarf 4405823463 | `paste/18-4405823463.md` | 398 views, 1 order; plum and mandarin sold out; thumbnail reads as sweaters. | None worn. Pick the image where the whole scarf is visible, not the stack of three. | D6 |
+| 5 | Lambswool sweater vest 4473219712 | `paste/04-4473219712.md` | 326 views, the one in stock is in someone's cart; S and L sold out. | Move photo 5 or 9 (worn) to first. | — |
+| 6 | Royal alpaca houndstooth scarf 4405853758 | `paste/12-4405853758.md` | Has a 5★ review; all three colours show sold out next to "2 left". Materials field says *alpaca, wool* against a 100% royal alpaca text. | None worn among 20. Whole scarf visible. | D6 |
+| 7 | Baby alpaca herringbone scarf, extra long 4397950200 | `paste/13-4397950200.md` | Has a 5★ review; all colours show sold out. | Move photo 2, 3, 5 or 9 (worn) to first. | — |
+| 8 | Baby alpaca batwing sweater 4485196479 (+ 4558302209) | `paste/05-06-4485196479.md` | Two listings with the same title compete with each other. Merge first, then edit one listing instead of two. | None worn across 32 photos. Whole garment visible. | D2, D3 |
+| 9 | Lambswool turtleneck 4473212449 | `paste/03-4473212449.md` | Winter piece. Photos show three colours but there is no colour option, so nobody can choose one. | None worn among 10. Whole sweater, collar visible. | — |
+| 10 | Merino tuck-stitch sweater 4473253283 | `paste/02-4473253283.md` | Winter piece. Only M is buyable; no colour named anywhere. | Whole sweater visible. | D5 |
+| 11 | Batwing sweater, herringbone 4394626100 | `paste/07-4394626100.md` | Winter piece; three of four colours have no L. Add the sizes you can knit. | Photo 8 looks worn; move it to first. | D2 |
+| 12 | Royal alpaca herringbone scarf 4597967569 | `paste/11-4597967569.md` | No free-shipping badge; 19 photos none worn. | Whole scarf visible. | — |
+| 13 | Brushed alpaca and silk scarf 1844108063 | `paste/14-1844108063.md` | Only 1 left and no variation; 200 vs 210 cm conflict. | Only 7 photos, none worn. Whole scarf visible. | D6 |
+| 14 | Kid silk mohair scarf 4598227511 | `paste/15-4598227511.md` | No fibre percentages anywhere; if desert sand is the dusty pink, set pink as the primary colour attribute. | None worn among 20. Whole scarf visible. | — |
+| 15 | Striped merino and alpaca scarf 4394681620 | `paste/16-4394681620.md` | Photos show two colourways but there is no colour option. | Photo 1 is already worn; leave it. | — |
+| 16 | Baby alpaca fair isle scarf, honey / brown 4484532519 | `paste/17-4484532519.md` | Same product as listing 2 at a higher price; merge or differentiate per D4. | Photo 1 is already worn and is the best first photo of all nine scarves; leave it. | D4 |
+| 17 | Baby alpaca boat-neck top 4484751977 | `paste/08-4484751977.md` | Spring piece; expect it to sit through winter. Only S buyable. | Move photo 9 (worn) to first. | — |
+| 18 | Alpaca lace top 4410829398 | `paste/09-4410829398.md` | Spring piece. M and L sold out in both colours. | Move one of photos 2, 6, 9, 12–14 (worn) to first. | — |
 
-Suggested pace: listings 1–6 in the first week (they carry nearly all the views, favourites and reviews), 7–15 in the second, 16–17 whenever. Etsy says title changes take a few weeks to show in search, so the sooner the first six are live the better.
+Suggested pace: listings 1–7 in the first week (they carry nearly all the views, favourites and reviews), 8–16 in the second, 17–18 whenever. Etsy says title changes take a few weeks to show in search, so the sooner the first seven are live the better.
+
+## Phase 2b — one new listing, added 3–4 Nov 2026 · done on: ______
+
+- [ ] **Create the Flora merino butterfly sweater** (not an edit — this product is not yet on Etsy, only on wuulo.eu). Use `paste/19-new-flora-merino-butterfly-sweater.md`: title, 13 tags, description and set-up are all there, built from https://www.wuulo.eu/product/merino-butterfly-sweater-dark-brown. Resolve the file's one open question (unisex vs women's, per D2) before publishing.
+- [ ] This is new stock and a new price point (149 EUR, the shop's highest), not part of the fix-existing-18 work above — do it whenever convenient, not necessarily before Phase 2.
 
 ## Phase 3 — Etsy Ads, after listings 1–6 are live · set on: ______
 
